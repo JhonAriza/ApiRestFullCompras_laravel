@@ -1,6 +1,6 @@
 ###   INTRODUCCION
 
-Esta es un api se usa Responses para  manejar las respuestas , podemos  crear marcas ,categorias ,productos y realizar compras, maneja operaciones para actualizar las tablas.  
+Esta es un api se usa respuestas , podemos  crear marcas ,categorias ,productos y realizar compras, maneja operaciones para actualizar las tablas.  
 ###  INSTALACION 
 
 - git clone  
